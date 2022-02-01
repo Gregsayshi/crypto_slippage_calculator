@@ -1,4 +1,3 @@
-from pycoingecko import CoinGeckoAPI
 from pprint import pprint
 import urllib.request
 import pandas as pd
